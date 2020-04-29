@@ -61,32 +61,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\atacked.cs" />
-    <Compile Include="Assets\code\AI.cs" />
-    <Compile Include="Assets\code\Boom.cs" />
-    <Compile Include="Assets\code\cristalDistroy.cs" />
-    <Compile Include="Assets\code\EnemyWizardAtack.cs" />
-    <Compile Include="Assets\code\enemyWizardScript.cs" />
-    <Compile Include="Assets\code\ghostEffects.cs" />
-    <Compile Include="Assets\code\Health.cs" />
-    <Compile Include="Assets\code\HealthBar.cs" />
-    <Compile Include="Assets\code\killCounter.cs" />
-    <Compile Include="Assets\code\Movement.cs" />
-    <Compile Include="Assets\code\randomSpawn.cs" />
-    <Compile Include="Assets\code\Rotate.cs" />
-    <Compile Include="Assets\code\ShotMove.cs" />
-    <Compile Include="Assets\code\ShotSpawn.cs" />
-    <Compile Include="Assets\code\SpawnZomby.cs" />
-    <Compile Include="Assets\code\timer.cs" />
-    <Compile Include="Assets\code\TopCam.cs" />
-    <Compile Include="Assets\code\wall.cs" />
-    <Compile Include="Assets\code\wizard.cs" />
-    <Compile Include="Assets\EnemyAIScript.cs" />
-    <Compile Include="Assets\health.cs" />
-    <Compile Include="Assets\healthBar.cs" />
-    <Compile Include="Assets\MovementScript.cs" />
-    <Compile Include="Assets\rotate.cs" />
-    <Compile Include="Assets\ZombySpawner.cs" />
+    <Compile Include="Assets\Code\Enemy\Boom.cs" />
+    <Compile Include="Assets\Code\Enemy\EnemyAIScript.cs" />
+    <Compile Include="Assets\Code\Enemy\Spawner.cs" />
+    <Compile Include="Assets\Code\Enemy\Wizard\CrystalShield.cs" />
+    <Compile Include="Assets\Code\Enemy\Wizard\RotateShield.cs" />
+    <Compile Include="Assets\Code\Enemy\Wizard\WizardAttack.cs" />
+    <Compile Include="Assets\Code\Enemy\Wizard\WizardProjectile.cs" />
+    <Compile Include="Assets\Code\Environment\wall.cs" />
+    <Compile Include="Assets\Code\Player\Health.cs" />
+    <Compile Include="Assets\Code\Player\Movement.cs" />
+    <Compile Include="Assets\Code\Player\RandomSpawn.cs" />
+    <Compile Include="Assets\Code\Player\Restart.cs" />
+    <Compile Include="Assets\Code\Player\Rotate.cs" />
+    <Compile Include="Assets\Code\Player\ShotMove.cs" />
+    <Compile Include="Assets\Code\Player\ShotSpawn.cs" />
+    <Compile Include="Assets\Code\Player\Timer.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/22ballmerl/Desktop/_Programming/Unity/KTL/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
