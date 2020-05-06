@@ -15,21 +15,21 @@ Turn            move the mouse.
 ## Enemies
 
 ### Zombie:
-![alt text](img/Zombie.png)
+![Zombie](img/Zombie.png)
 
-slow damages on contact
+Slow damages on contact.
 
 ### Runner:
-![alt text](img/Runner.png)
+![Runner](img/Runner.png)
 
-fast damages on contact
+Fast damages on contact.
 
 ### Wizard:
-![alt text](img/Wizard.png)
+![Wizard](img/Wizard.png)
 
 Shoots projectiles that damage you and has a shield of projectiles
 
 ### Bomber:
-![alt text](img/Bomber.png)
+![Bomber](img/Bomber.png)
 
 Flashes and explodes when close.
