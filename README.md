@@ -33,3 +33,6 @@ Shoots projectiles that damage you and has a shield of projectiles
 ![Bomber](img/Bomber.png)
 
 Flashes and explodes when close.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
